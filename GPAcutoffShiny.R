@@ -60,7 +60,7 @@ ui <- page_sidebar(
       label = "Minimum score:",
       min = 0,
       max = 4,
-      value = 0,
+      value = 4,
       step = 0.5
     ),
     sliderInput(
